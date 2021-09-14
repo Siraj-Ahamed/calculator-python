@@ -1,4 +1,4 @@
-a = int(input("Enter a number 04:")) 
+a = int(input("Enter a number 05:")) 
 b = int(input("Enter a number 02:")) 
 c = int(input("Enter a number 03:")) 
 print(a + b + c)   
